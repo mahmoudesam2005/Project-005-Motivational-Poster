@@ -1,0 +1,39 @@
+/* Start styling the Global Rules */
+
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    line-height: 2;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* End styling the Global Rules */
+
+/* CSS */
+
+.container {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    border: 2px solid white;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+
+
+/* CSS */
